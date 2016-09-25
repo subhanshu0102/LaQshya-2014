@@ -1,0 +1,160 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	background:url(../images/background5.jpg);
+    font-weight:900;
+    font-size: large;
+	}
+	
+body{
+	
+	}
+	
+.main_menu_wrapper_bottom{
+	margin-top:0px;
+	width:100%;
+	height:50px;
+    top: 0px;
+    right: 0px;
+	
+	}	
+.main_menu_wrapper{
+	margin-top:0px;
+	width:100%;
+	height:50px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+	
+	}
+	
+.main_menu{
+	width:100%;
+	height:50px;
+	}
+.main_menu ul {
+	margin-right:20px;}
+.main_menu ul li {
+	padding:10px 20px;
+	margin:0px 20px;
+	float:right;
+	list-style:none;
+	}
+	
+.main_menu ul li a{
+	text-decoration:none;
+	}
+
+.main_wrapper{
+	width:100%;
+	margin-top:2px;
+	
+ }
+ 
+ .banner{
+	 width:100%;
+	 height:250px;
+	 }
+ 
+.event_group_wrapper{
+	 margin-left:0px;
+	 float:left;
+	 width:175px;
+	 }
+.body_wrapper{
+	float:right;
+	width:1150px;
+}
+.body_wrapper_center{
+	margin:auto auto auto 0px;;
+	width:750px;
+}
+
+.event_menu_wrapper{
+	float:left;
+	margin-top:00px;
+	height:40px;
+}
+
+.event_submenu_wrapper{
+	height:500px;
+	margin-top:150px;
+	float:right;
+	width:100px;
+	vertical-align:central;
+}
+
+.sponsors_wrapper{
+	width:100%;
+	margin-bottom:0px;
+}
+	
+.event_grp_wrapper{
+	width:70px;
+	height:400px;
+	padding:10px;
+	
+	}	
+.event_grp_menu{
+	margin:200px auto auto 20px;
+	}
+	
+.event_grp_menu ul{
+	}	
+.event_grp_menu ul li{
+	list-style:none;
+	margin:20px 2px 20px 10px;
+	padding:10px 1px 10px 5px;
+	
+	}
+	
+.event_grp_menu ul li a{
+	text-decoration:none;
+	}
+
+
+.shaurya_menu{
+	margin-top:0px;
+	height:100px;
+	float:left;
+	}
+
+.shaurya_menu ul {
+	}
+.shaurya_menu ul li {
+	padding:20px;
+	margin:5px 10px;
+	float:left;
+	list-style:none;
+	}
+	
+.shaurya_menu ul li a{
+    font-size: medium;
+	text-decoration:none;
+	
+	}
+	
+.event_submenu{
+	
+	}
+
+.event_submenu ul {
+	margin-right:0px;
+	}
+.event_submenu ul li {
+	padding:10px;
+	margin:5px 20px;
+	list-style:none;
+	}
+	
+.event_submenu ul li a{
+	text-decoration:none;
+	
+	}
+/* CSS Document */
+
+
+
+/* CSS Document */
+
